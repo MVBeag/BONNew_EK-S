@@ -1,0 +1,26 @@
+******************************
+* Broncolor SirosL ChangeLog *
+******************************
+
+Version 52.04
+=============
+- security protocols determination integrated.
+- flash control integrated.
+- in Soft AP mode SSID and Password configurable.
+- beacon parameter decreased.
+- TAG added.
+- non S Siros also have the HS state displayed.
+- GS2011 and GS1011 conform.
+
+Version 52.03
+=============
+- Leica adaptation integrated.
+- Modeling light control improved.
+
+Version 52.01
+=============
+- Initial
+
+Version 52.02
+=============
+- Overall improvement

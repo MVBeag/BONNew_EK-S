@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fmw/l/changelog.txt</file>
+        <file>fmw/l/image.txt</file>
+        <file>fmw/l/logo.jpg</file>
+        <file>fmw/s/changelog.txt</file>
+        <file>fmw/s/image.txt</file>
+        <file>fmw/s/logo.jpg</file>
+        <file>img/main_frame.png</file>
+        <file>img/scanning.jpg</file>
+        <file>img/siros.jpg</file>
+        <file>img/status_error.jpg</file>
+        <file>img/status_success.jpg</file>
+        <file>font/DINOT-Regular.otf</file>
+        <file>font/DINOT-Black.otf</file>
+        <file>font/DINOT-Bold.otf</file>
+        <file>font/DINOT-Light.otf</file>
+        <file>font/DINOT-Medium.otf</file>
+        <file>img/step_1.jpg</file>
+        <file>img/step_2.jpg</file>
+        <file>imp/QtQuick/Controls/qmldir</file>
+        <file>imp/QtQuick/Layouts/qmldir</file>
+        <file>imp/QtQuick/Window.2/qmldir</file>
+        <file>imp/QtQuick.2/qmldir</file>
+        <file>SirosUpdater.zip</file>
+        <file>qml/main.qml</file>
+        <file>qml/PageStatus.qml</file>
+        <file>qml/PageWelcome.qml</file>
+        <file>qml/PageSearch.qml</file>
+        <file>qml/PageDeviceFound.qml</file>
+        <file>qml/PageUpdate.qml</file>
+        <file>egl/d3dcompiler_47.dll</file>
+        <file>egl/libEGL.dll</file>
+        <file>egl/libGLESv2.dll</file>
+        <file>qml/MessageDriverMissing.qml</file>
+        <file>doc/Instructions Windows - Follow those steps.pdf</file>
+        <file>qml/ItemStep.qml</file>
+    </qresource>
+</RCC>

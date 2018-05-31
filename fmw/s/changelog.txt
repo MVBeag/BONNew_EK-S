@@ -1,0 +1,57 @@
+*****************************
+* Broncolor Siros ChangeLog *
+*****************************
+
+Version 49.09
+=============
+- security protocols determination integrated.
+- flash control integrated.
+- in Soft AP mode SSID and Password configurable.
+- beacon parameter decreased.
+- TAG added.
+- non S Siros also have the HS state displayed.
+- GS2011 and GS1011 conform.
+
+Version 49.08
+=============
+- HS for 800J integrated.
+- Leica adaptation integrated.
+- Modeling light control improved.
+- Parameter store improved.
+
+Version 49.07
+=============
+- Broncontrol: Delay, Sequence sync and Freemask/Alternate integrated.
+
+Version 49.06
+=============
+- Improvements on modelling lamp control.
+- Fan in standby mode is switched off after 5 minutes.
+- Improved WiFi control: Changing the studio with active Wifi also changes the Wifi-SSID. 
+- Full interaction with Gossen Digisky lightmeter: Digisky can control Siros studio flash, single flash, modelling light and power control
+
+Version 49.05
+=============
+- Improvements on speed table for Siros 800S
+- Modelling light and fan control changed to eliminate dimming functionality. 
+
+
+Version 49.04
+=============
+- Improvements on CTC algorithm for better colour temperature stability
+- Improvements on flash-tube linearity in Cut-Off and Speed Mode. 
+
+
+Version 49.03
+=============
+- Improvements on data storage
+
+Version 49.02
+=============
+- Improvements on sequence stability
+- Cell parameter saved
+- Improvements on unit cooling
+- Faster trigger times
+- Bootloader information setups
+- Improvements on cognition light updates over wifi
+- Implementation of additional parameters for wifi control

@@ -2,6 +2,11 @@
 * Broncolor Siros ChangeLog *
 *****************************
 
+Version 49.10
+=============
+- synchronise sequence and delay functionality works together.
+- enterprise mode works indecently of the AP configuration.
+
 Version 49.09
 =============
 - security protocols determination integrated.

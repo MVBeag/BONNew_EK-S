@@ -8,7 +8,8 @@ TargetInfo::TargetInfo( QObject *parent )
     _sirosModelsS << "Siros" << "Siros 400" << "Siros 800" << "Siros 400S" << "Siros 800S" << "Siros 400 S" << "Siros 800 S";
     _sirosModelsL << "Siros 400L" << "Siros 800L" << "Siros 400 L" << "Siros 800 L";
 
-    _firmware.insert( TARGET_SIROS_S, new FirmwareInfo( ":/fmw/s/image.txt", 124670UL, "49.09", ":/fmw/s/changelog.txt", "/fmw/s/logo.jpg" ) );
+    /**/
+    _firmware.insert( TARGET_SIROS_S, new FirmwareInfo( ":/fmw/s/image.txt", 126826UL, "49.10", ":/fmw/s/changelog.txt", "/fmw/s/logo.jpg" ) );
     _firmware.insert( TARGET_SIROS_L, new FirmwareInfo( ":/fmw/l/image.txt", 124254UL, "52.04", ":/fmw/l/changelog.txt", "/fmw/l/logo.jpg" ) );
 }
 
